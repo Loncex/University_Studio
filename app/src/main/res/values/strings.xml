@@ -5,6 +5,12 @@
     <string name="Btn_Login">Login</string>
     <string name="Btn_Registro">Registro</string>
 
+    <!--Bottom Bar-->
+    <string name="Inicio">Inicio</string>
+    <string name="Promedio">Promediar</string>
+    <string name="Reconocer">Reconocer</string>
+    <string name="Salir">Salir</string>
+
     <!--REGISTRO-->
     <string name="CrearCuentaTXT">Crear una Cuenta</string>
     <string name="NombreEt">Nombres</string>
@@ -20,5 +26,7 @@
     <string name="PassLogin">Contraseña</string>
     <string name="Btn_Logeo">Ingresar</string>
     <string name="UsuarioNuevoTXT">¿No tienes cuenta?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Estoy en el perfil</string>
 
 </resources>
