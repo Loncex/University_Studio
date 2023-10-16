@@ -9,8 +9,6 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
 
-
-
     Button Btn_Login, Btn_Registro;
 
     @Override

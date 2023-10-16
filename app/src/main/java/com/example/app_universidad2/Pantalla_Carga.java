@@ -15,8 +15,6 @@ public class Pantalla_Carga extends AppCompatActivity {
 
         int Tiempo = 3000;
 
-
-
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
